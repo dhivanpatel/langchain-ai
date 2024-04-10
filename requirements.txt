@@ -9,4 +9,5 @@ sse_starlette
 httpx_sse
 slack_bolt
 pydantic==2.6.4
+langchain_community
 
